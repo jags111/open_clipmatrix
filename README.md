@@ -1,5 +1,17 @@
-![example of ClipMatrix 3d mesh output](mecha_warrior.png)
-Figure: 2 rotated camera views showing an example ClipMatrix 3d mesh output for text prompt "Mecha Warrior in Sci Fi Giger style"
+# Clip_matrix 
+3d obj mesh generator using text prompts
+
+
+<p align=center>
+<a href="https://github.com/jags111/open_clipmatrix/blob/main/open_ClipMatrix_ver0_8.ipynb"><img src="https://img.shields.io/badge/Open-in%20Colab-brightgreen?logo=google-colab&style=flat-square" alt="Open in Google Colab"/></a>
+<br>
+! [example of ClipMatrix 3d mesh output] (mecha_warrior.png)
+Figure:  rotated camera views showing an example ClipMatrix 3d mesh output 
+
+for text prompt "Mecha Warrior in Sci Fi Giger style"
+</p>
+
+
 
 # open_clipmatrix : very short intro
 An open source ClipMatrix AI tool for text_to_3d mesh mapping; fixed deformable mesh template without rigging.
